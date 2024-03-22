@@ -144,7 +144,7 @@ Léamn is a Discord Bot coded in Python whose primary aim is to facilitate every
   - Usage: `/recruit [region]`
 
 - **Recruit Session**
-  - Description: Start a recruitment session for a region.
+  - Description: Start a recruitment session for a region. The "call_wait" paremeter is counted in minutes.
   - Permissions: Recruiter role
   - Usage: `/recruit_session [region] [call_wait]`
 
