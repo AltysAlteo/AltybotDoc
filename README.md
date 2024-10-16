@@ -22,7 +22,7 @@
 # Léman
 ## _Discord Bot for Nationstates_
 
-Léamn is a Discord Bot coded in Python whose primary aim is to facilitate everyday tasks carried out by communities present on the [NationStates](https://www.nationstates.net) site.
+LémanNS is a Discord Bot coded in Python whose primary aim is to facilitate everyday tasks carried out by communities present on the [NationStates](https://www.nationstates.net) site.
 
 ## Features
 
